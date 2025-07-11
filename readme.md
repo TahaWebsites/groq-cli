@@ -23,7 +23,7 @@ Built for developers, terminal junkies, and anyone who wants the power of AI rig
 Install globally via `npm`:
 
 ```bash
-npm install -g groq-cli
+npm install -g ai59
 ```
 
 After installing, run:
@@ -35,7 +35,7 @@ ai
 Or run it instantly with:
 
 ```bash
-npx groq-cli
+npx ai59
 ```
 
 You'll be prompted to chat with the AI.
